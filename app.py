@@ -28,4 +28,6 @@ class SpellCheckerApp:
             print(f'corrected text : {corrected_text}')
 
 if __name__ == "__main__":
-    SpellCheckerApp().run()
+    SpellCheckerApp().run() 
+
+print("thank you for using this !! ")
